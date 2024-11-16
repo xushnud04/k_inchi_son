@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731167700 source:d:\c++ code\vazifa\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
